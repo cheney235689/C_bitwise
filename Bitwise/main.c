@@ -7,7 +7,7 @@
 
 int main()
 {	
-	//test flipBit
+	//01.test flipBit
 	printf("------flipBit test:-------\f");
 	int flipBit_input = 9;
 	int flipBit_pos = 2;
